@@ -33,7 +33,17 @@
 
 ## 思维工具箱
 
-后续增加，目前尚未发布。
+| 工具 | 普通AI对话版 | 标准Skill包 | 指令源码 |
+|---|---|---|---|
+| 万解AI封神 | [下载文本](downloads/万解AI封神-对话版.txt) | [下载Skill包](downloads/wanjie-ai-skill.zip) | [查看SKILL.md](skills/thinking-toolbox/wanjie-ai/SKILL.md) |
+
+用于问题分析、目标澄清、方案制定与行动验证。指令正文及作者备注按提供的原文保留，标准Skill仅增加名称与用途字段。
+
+支持读取网页全文的AI，可发送以下内容：
+
+> 请完整读取 https://raw.githubusercontent.com/Lightman1982/mxSkill/main/skills/thinking-toolbox/wanjie-ai/SKILL.md ，按文末“执行指令”启动万解AI。若无法完整读取，请明确告诉我，不要假装已经加载。
+
+如果AI无法读取链接，下载上面的文本版并上传到新对话，发送：“请完整阅读附件，按文末的执行指令开始。”读取指令不等于平台已永久安装Skill。
 
 ## 维护说明
 
